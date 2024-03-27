@@ -5,6 +5,7 @@ class Restaurante:
 
     restaurantes = []
 
+
     def __init__(self, nome, categoria):
         """
         Inicializa uma instância de Restaurante.

@@ -1,5 +1,6 @@
 from modulos.restaurante import Restaurante
 
+
 restaurante_praca = Restaurante('praça', 'Gourmet')
 restaurante_sushi = Restaurante('sushi', 'japa')
 restaurante_praca.receber_avaliacao('Gui', 10)
